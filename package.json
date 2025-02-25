@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.gamespacescan",                              
+  "displayName": "Gaming Space 300 Scan",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "GameSpace 300 Scan",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2025_02_25_GamingSpaceScan300.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
